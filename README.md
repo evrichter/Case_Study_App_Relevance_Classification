@@ -52,13 +52,13 @@ To illustrate the structure of the annotated labels, the table below shows an an
 AppID,FullText,is_relevant,uncertain
 A001,"batch validation and quality inspection workflow",1,0
 A002,"invoice processing and financial reconciliation",0,0
-A003,"clinical trial data entry and audit logging",1,0
+A003,"clinical trial data entry and audit logging",1,0```
 
 ---
 
 ## Requirements
 The analysis was conducted using standard Python data science libraries, including:
-
+ ```
 - numpy
 - pandas
 - scikit-learn
