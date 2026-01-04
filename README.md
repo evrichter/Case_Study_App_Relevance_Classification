@@ -7,7 +7,6 @@ The goal is to classify enterprise applications with respect to their relevance 
 ---
 
 ## Goal
-In large enterprise landscapes, identifying applications that are potentially relevant for regulated domains (e.g. GxP, Life Sciences, MedTech, Pharma) is a challenging and largely manual task.  
 The objective of this case study is to use textual application metadata to automatically flag potentially relevant applications when only very limited labeled data is available.
 
 ---
