@@ -56,9 +56,12 @@ A003,"clinical trial data entry and audit logging",1,0
 
 ---
 
-## Repository Contents
-- `app_relevance_classification_case_study.ipynb` – main Jupyter Notebook containing the full analysis
-- `requirements.txt` – dependencies required to run the notebook
-- `README.md` – project description
+## Requirements
+The analysis was conducted using standard Python data science libraries, including:
 
+- numpy
+- pandas
+- scikit-learn
+- matplotlib
+- umap-learn
 
