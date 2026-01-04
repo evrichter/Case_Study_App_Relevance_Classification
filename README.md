@@ -58,7 +58,7 @@ A003,"clinical trial data entry and audit logging",1,0```
 
 ## Requirements
 The analysis was conducted using standard Python data science libraries, including:
- ```
+
 - numpy
 - pandas
 - scikit-learn
